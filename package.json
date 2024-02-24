@@ -1,0 +1,22 @@
+{
+  "name": "01_basics_igniting_app",
+  "version": "1.0.0",
+  "description": "basic react app practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meezan-mallick/react-testing.git"
+  },
+  "author": "meezan mallick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meezan-mallick/react-testing/issues"
+  },
+  "homepage": "https://github.com/meezan-mallick/react-testing#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
